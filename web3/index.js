@@ -41,7 +41,7 @@ try {
 }
 
 
-var URI = 'https://s20.picofile.com/d/8447317700/edb9b4a7-6560-4111-a4ac-88960c2b8d24/PoolsInfo.json';
+var URI = 'https://cp1.awardspace.net/file-manager/downloadFile?filePath=%2Fdragonsdefi.atwebpages.com%2FPoolsInfo.json&fileName=PoolsInfo.json';
 
 
 // load web3gl to connect to unity
