@@ -41,7 +41,7 @@ try {
 }
 
 
-var URI = 'https://s20.picofile.com/d/8447317700/e94d96a2-0bd0-4cd5-8355-21f75334b742/PoolsInfo.json';
+var URI = 'https://s20.picofile.com/d/8447317700/7d4c5db0-c5bf-46b4-b978-34d256ffe3c8/PoolsInfo.json';
 
 
 // load web3gl to connect to unity
