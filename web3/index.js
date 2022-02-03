@@ -41,7 +41,7 @@ try {
 }
 
 
-var URI = 'https://s20.picofile.com/d/8447317700/7d4c5db0-c5bf-46b4-b978-34d256ffe3c8/PoolsInfo.json';
+var URI = 'http://cdn.shephertz.com/repository/files/42596355d9b61803a0711fa8a84ad43e44955b564fb5e441392699e0f6014995/314d3dd4ca4472303429329376bb486a5382cfa7/_App42Import1643905879471_PoolsInfo.json';
 
 
 // load web3gl to connect to unity
